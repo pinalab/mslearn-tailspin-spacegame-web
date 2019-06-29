@@ -1,4 +1,4 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-pina&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-pina)
+[![Build Status](https://dev.azure.com/Tailspin1/Space%20Game%20-%20web/_apis/build/status/pinalab.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin1/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-pina&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-pina)
 
 # Contributing
 
